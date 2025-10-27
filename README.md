@@ -158,3 +158,4 @@ SECTION 18: GITIGNORE CONTENT
 *.class *.log .idea/ .vscode/ out/ bin/
 
 OUTPUT : 
+<img width="437" height="716" alt="Image" src="https://github.com/user-attachments/assets/62b0664e-894b-4383-90bb-7a628bd49d5a" />
